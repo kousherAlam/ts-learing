@@ -1,0 +1,2 @@
+Decorators provide a way to add both anotations and a meta-programming syntax for class declaration and members. 
+
