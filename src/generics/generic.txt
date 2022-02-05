@@ -1,0 +1,4 @@
+Generics are reuseable peices of code that works with multiple types
+
+We can further constrain types by using extends keywork. then the generic all force to have the specfic types. 
+
